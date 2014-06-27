@@ -5,6 +5,8 @@
 
 [http://j-mcnally.github.io/x-amazing-rainbow-widget/demo/](http://j-mcnally.github.io/x-amazing-rainbow-widget/demo/)
 
+Click hello to change it's color.
+
 # Download it
 
 
