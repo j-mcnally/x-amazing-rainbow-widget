@@ -3,11 +3,7 @@
 
 # Example
 
-```
-// describe usage
-
-
-```
+[http://j-mcnally.github.io/x-amazing-rainbow-widget/demo/](http://j-mcnally.github.io/x-amazing-rainbow-widget/demo/)
 
 # Download it
 
